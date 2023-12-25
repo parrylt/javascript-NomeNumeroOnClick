@@ -1,5 +1,5 @@
 # javascript-NomeNumeroOnClick
-mais umas functions das primeiras aulas de js.
+mais umas functions das primeiras aulas de js. Professor: Anselmo.
 <br><br>
 <div align="center">
   <h3>Página inicial</h3>
